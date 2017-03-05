@@ -5,7 +5,7 @@ Http
 -MainController : contiene la logica de negocio
 
 Vista
--MainView en welcome.blade.php (vista principal de Laravel por defecto) :  contiene la vista unica de la aplicacion
+-Sin clases, codigo welcome.blade.php (vista principal de Laravel por defecto) :  contiene la vista unica de la aplicacion
 
 El resto son las clases que vienen por defecto en Laravel, ligeramente cambiadas.
 
